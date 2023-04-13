@@ -1,0 +1,126 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.area1 {
+    background-color: darkcyan;
+    width: 100%;
+    height: 300px;
+    position: relative;
+    text-align: center;
+
+
+    .icon {
+        margin: 0 auto;
+        height: 150px;
+        width: 150px;
+        background-image: url('./maxresdefault.jpg');
+        background-size: cover;
+        border-radius: 50%;
+        background-position: center;
+    }
+
+    h1 {
+        font-size: 36px;
+    }
+
+    p {
+        font-size: 24px;
+    }
+}
+
+.area2 {
+    background-color: white;
+    width: 100%;
+    height: 450px;
+    position: relative;
+
+    h2 {
+        margin-left: 30px;
+        border-bottom: 1px solid black;
+        margin-right: 30px;
+        font-size: 32px;
+    }
+
+    .list1 {
+
+        list-style-type: none;
+        font-size: 24px;
+    }
+
+    h3 {
+        margin-left: 30px;
+        margin-right: 30px;
+        border-bottom: 1px solid black;
+        font-size: 32px;
+    }
+
+    .list2 {
+        list-style-type: none;
+        font-size: 24px;
+    }
+
+
+}
+
+.area3 {
+    background-color: darkcyan;
+    width: 100%;
+    height: 200px;
+    position: relative;
+    text-align: center;
+
+    h4 {
+        padding-top: 10px;
+        padding-bottom: 20px;
+        margin-right: 30px;
+        margin-left: 30px;
+        margin-bottom: 15px;
+        border-bottom: 1px solid white;
+        font-size: 32px;
+        color: white;
+    }
+
+    .list {
+        margin-right: 40px;
+        list-style-type: none;
+        font-size: 24px;
+        color: white;
+    }
+
+
+}
+
+.area4 {
+    background-color: white;
+    width: 100%;
+    height: 200px;
+    position: relative;
+
+    p {
+        margin-top: -2px;
+        margin-left: 3px;
+        font-size: 16px;
+        color: darkcyan;
+    }
+
+
+    h5 {
+        padding-left: 15px;
+        padding-bottom: 30px;
+        padding-top: 10px;
+        margin-right: 30px;
+        margin-left: 30px;
+        border-bottom: 1px solid black;
+        font-size: 32px;
+
+    }
+
+    .list {
+        margin-left: 20px;
+        margin-right: 40px;
+        font-size: 24px;
+
+    }
+}
